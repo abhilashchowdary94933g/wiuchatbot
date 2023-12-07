@@ -204,5 +204,4 @@ def wiu_chatbot():
                                                 # Default response when the chatbot can't understand the input
                                                 print("Wiu Chatbot: Sorry, I didn't understand that. How can I help you today?")
 
-# Example usage
 wiu_chatbot()
